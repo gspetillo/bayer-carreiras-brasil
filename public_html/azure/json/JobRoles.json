@@ -1,0 +1,88 @@
+{
+    "JobRoles": [
+        {
+            "job_ID": "teste",
+            "title": "Nulla",
+            "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "keywords": [
+                "Vestibulum",
+                "vehicula",
+                "malesuada",
+                "elementum"
+            ]
+        },
+        {
+            "job_ID": "43",
+            "title": "Gestor de Recursos Humanos",
+            "description": "Gestao de pessoas, capacitacao e aquisicao de novos talentos. Monitoramento de funcionarios, Elaboracao do plano de carreiras, cargos e salarios",
+            "keywords": [
+                "Gestao de pessoas",
+                "Talent Acquisition",
+                "Talentos",
+                "Recursos Humanos"
+            ]
+        },
+        {
+            "job_ID": "44",
+            "title": "Desenvolvedor",
+            "description": "Desenvolver em Android com a linguagem Java e Kotlin, conhecimento em REST, Arquiteturas atuais (MVP, MVVM), analisar documentacoes de requisitos para implementacao e participar de cerimonias scrum. Gerar evidencias.",
+            "keywords": [
+                "Retrofit",
+                "Java",
+                "RecyclerView",
+                "Butterknife"
+            ]
+        },
+        {
+            "job_ID": "45",
+            "title": "Engenheiro Quimico",
+            "description": "Processos industriais que recorrem a transformacoes fisico-quimicas. Aplicacao de tecnicas de extracao ou obtencao de materias-primas e transformacao em produtos quimicos e petroquimicos, como tintas, plasticos, texteis, papel e celulose.",
+            "keywords": [
+                "Engenharia Quimica",
+                "Extracao",
+                "Produtos Quimicos",
+                "Processos Industriais"
+            ]
+        },
+        {
+            "job_ID": "49",
+            "title": "Analista Programador Mainframe",
+            "description": "Desenvolvimento de aplicacoes Web \/ Desktop. Implementacao das funcionalidades levantadas pelo departamento de analise. Integracao de Sistemas. Automacao de Processos. Desenvolvimento de webservices. Manutencao em aplicacoes existentes.",
+            "keywords": [
+                "DB2",
+                "COBOL",
+                "CSS",
+                "Desenvolvimento de aplicacoes Web",
+                "Desenvolvimento de webservices",
+                "Manutencao em aplicacoes existentes",
+                "Implementacao das funcionalidades levantadas pelo departamento",
+                "analise",
+                "Desktop",
+                "Integracao de Sistemas",
+                "Automacao de Processos"
+            ]
+        },
+        {
+            "job_ID": "50",
+            "title": "Designer Grafico Junior",
+            "description": "Criacao e adaptacao de pecas de branding e identidade visual de eventos de grande porte.",
+            "keywords": [
+                "Indesign",
+                "Illustrator",
+                "Photoshop",
+                "Lightroom",
+                "branding",
+                "identidade visual de eventos",
+                "adaptacao de pecas",
+                "grande porte",
+                "Criacao"
+            ]
+        },
+        {
+            "job_ID": "51",
+            "title": "Farmaceutico",
+            "description": "Desenvolvera novos medicamentos e ira realizar testes diversos.",
+            "keywords": ""
+        }
+    ]
+}
