@@ -1,10 +1,15 @@
 # Bayer Carreiras Brasil - Insightek
 
+<br>
+
 **1° colocado do *Bayer Talent 5.0 Cup* no *Next FIAP Festival 2019*.**
+
 
 Protótipo de um sistema de Talent Acquisition voltado ao departamento de Recursos Humanos da Bayer Brasil, utilizando inteligência artificial para triagem de currículos dos candidatos e sistema de notificações personalizadas sobre as etapas da candidatura. Projeto participante do FIAP Innovation Challenge 2019.
 
-> **Site Oficial:** [Bayer Carreiras Brasil](https://bayercarreiras.tk/)
+<br>
+
+> **Site Oficial:** [Bayer Carreiras Brasil](https://bayercarreiras.tk/)<br>
 > **Desenvolvimento:** *03/2019 - 11/2019*
 > 
 > **Ferramentas e Tecnologias**
@@ -20,6 +25,8 @@ Protótipo de um sistema de Talent Acquisition voltado ao departamento de Recurs
 > 
 > **Licença:** *MIT License*
 
+<br>
+
 ## Bayer Talent 5.0 Cup
 
 Projeto acadêmico multidisciplinar coordenado pela Faculdade de Informática e Administração Paulista (FIAP) em parceria com a empresa Bayer, multinacional do setor de saúde e agronegócios.
@@ -28,16 +35,17 @@ Desenvolvimento de um protótipo de sistema otimizado de recrutamento ao departa
 
 [FIAP - Bayer Talent 5.0 Cup](https://www.fiap.com.br/2019/11/02/bayer-talent-5-0-cup/)
 
+<br>
 
 ## Insightek
 
 Equipe vencedora do desafio *Bayer Talent 5.0 Cup* na premiação do *Next FIAP Festival 2019*.
 
-- **Integrantes**
+**Integrantes**
 
-> [**Gabriel Petillo**](https://www.linkedin.com/in/gabrielpetillo/) - *Team Leader & DBA*
-> [**João Camargo**](https://www.linkedin.com/in/joao-vitor-camargo-763a34140/) - *Software Engineer*
-> [**Marcos Farias**](https://www.linkedin.com/in/fmarcoos/) - *Hybrid App Developer*
-> [**Rayk Rocha**](https://www.linkedin.com/in/rayk/) - *Azure Developer*
-> [**Vinicius Mota**](https://www.linkedin.com/in/vinicius-mota-pereira-silva/) - *Front-end Developer*
-> [**Vitor Rico**](https://www.linkedin.com/in/rvitoor/) - *Fullstack Developer*
+> [**Gabriel Petillo**](https://www.linkedin.com/in/gabrielpetillo/) - *Team Leader & DBA*<br>
+> [**João Camargo**](https://www.linkedin.com/in/joao-vitor-camargo-763a34140/) - *Software Engineer*<br>
+> [**Marcos Farias**](https://www.linkedin.com/in/fmarcoos/) - *Hybrid App Developer*<br>
+> [**Rayk Rocha**](https://www.linkedin.com/in/rayk/) - *Azure Developer*<br>
+> [**Vinicius Mota**](https://www.linkedin.com/in/vinicius-mota-pereira-silva/) - *Front-end Developer*<br>
+> [**Vitor Rico**](https://www.linkedin.com/in/rvitoor/) - *Fullstack Developer*<br>
