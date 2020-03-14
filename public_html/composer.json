@@ -1,0 +1,13 @@
+{
+    "name": "raykr/azure",
+    "authors": [
+        {
+            "name": "Insightek",
+            "email": "insightek@googlegroups.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "*",
+        "vlucas/phpdotenv": "^3.6"
+    }
+}

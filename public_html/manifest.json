@@ -1,0 +1,113 @@
+{
+    "dir": "ltr",
+    "lang": "Portuguese",
+    "name": "Bayer Carreiras Brasil",
+    "scope": "/",
+    "display": "fullscreen",
+    "start_url": "/index.html",
+    "short_name": "Bayer Talent",
+    "theme_color": "#00314e",
+    "description": "Portal Bayer Carreiras",
+    "orientation": "any",
+    "background_color": "#ffffff",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+      {
+            "src": "/img/pwa/1bcca514-146f-c969-9ffa-1908f764cd00.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/dc0f7e42-981e-a192-8764-a48ac84a2fdd.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/43f0ccd2-3f9d-c6c1-c6d8-eb751be14cb5.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/047647fb-de11-0f1d-6386-df01ea931941.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/5ae552e9-1678-6c0a-144f-e8ab895c300f.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/ac8574b5-0b9d-38a5-7f7e-2c91fc2a4eca.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/0ee33f09-ded9-00bf-bf4b-a0f8989d10cf.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/1913fc94-d9f5-f1f4-a1cf-76c5f31110e7.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/e2954c31-bf8d-c48e-326e-bc96da88955f.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/06c77896-7ce5-d86e-2945-116ec6f1ff08.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/e3ba9a72-9873-1d3e-54fd-a0b80f8aaf91.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/2851ddf3-138c-afda-401c-23e69bb146ba.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/df3f936f-a401-34bd-aadf-6f7de19d7b87.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/395d03cf-73b7-c42a-53b0-664e310cfd9c.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/9fe22d45-e872-0f56-ae74-b40b846ea1eb.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/cc8c96c4-af2d-9e76-1174-d4a425b7a0a9.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/6c14fdb0-2d83-8d83-f923-1a070e81acd0.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/ee68bc0b-8f78-d740-bc8b-f2dd3778d7f4.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/img/pwa/875a629a-7e3e-1ad1-f5b5-b5678d625c76.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }  
+    ],
+    "screenshots": []
+}
